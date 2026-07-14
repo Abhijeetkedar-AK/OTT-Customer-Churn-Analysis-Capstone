@@ -322,5 +322,8 @@ Potential future improvements include:
 
 - LinkedIn: www.linkedin.com/in/abhijeetkedar-ak
 
+---
+
+Note: The source files (Excel workbook, SQL scripts, and Power BI project) are not included in this public repository to protect original work. Screenshots, documentation, and project outcomes are provided to demonstrate the complete analysis process.
 
 ---
